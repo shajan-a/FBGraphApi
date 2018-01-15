@@ -1,0 +1,14 @@
+C:\Users\Sindhu\Documents\Visual Studio 2017\Projects\FBGraphApi\FBTestForm\bin\Debug\FBTestForm.exe.config
+C:\Users\Sindhu\Documents\Visual Studio 2017\Projects\FBGraphApi\FBTestForm\bin\Debug\FBTestForm.exe
+C:\Users\Sindhu\Documents\Visual Studio 2017\Projects\FBGraphApi\FBTestForm\bin\Debug\FBTestForm.pdb
+C:\Users\Sindhu\Documents\Visual Studio 2017\Projects\FBGraphApi\FBTestForm\bin\Debug\FBGraphApi.dll
+C:\Users\Sindhu\Documents\Visual Studio 2017\Projects\FBGraphApi\FBTestForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sindhu\Documents\Visual Studio 2017\Projects\FBGraphApi\FBTestForm\bin\Debug\FBGraphApi.pdb
+C:\Users\Sindhu\Documents\Visual Studio 2017\Projects\FBGraphApi\FBTestForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sindhu\Documents\Visual Studio 2017\Projects\FBGraphApi\FBTestForm\obj\Debug\FBTestForm.csprojResolveAssemblyReference.cache
+C:\Users\Sindhu\Documents\Visual Studio 2017\Projects\FBGraphApi\FBTestForm\obj\Debug\FBTestForm.Form1.resources
+C:\Users\Sindhu\Documents\Visual Studio 2017\Projects\FBGraphApi\FBTestForm\obj\Debug\FBTestForm.Form2.resources
+C:\Users\Sindhu\Documents\Visual Studio 2017\Projects\FBGraphApi\FBTestForm\obj\Debug\FBTestForm.Properties.Resources.resources
+C:\Users\Sindhu\Documents\Visual Studio 2017\Projects\FBGraphApi\FBTestForm\obj\Debug\FBTestForm.csproj.GenerateResource.Cache
+C:\Users\Sindhu\Documents\Visual Studio 2017\Projects\FBGraphApi\FBTestForm\obj\Debug\FBTestForm.exe
+C:\Users\Sindhu\Documents\Visual Studio 2017\Projects\FBGraphApi\FBTestForm\obj\Debug\FBTestForm.pdb
